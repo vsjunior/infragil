@@ -4,6 +4,7 @@ Um pequeno exemplo de uma aplicacao em python, com dois arquivos:
 
 - app.py
 - requirements.txt
+- README.md
 
 O **NEGRITO** E O *sublinhado*.
 
